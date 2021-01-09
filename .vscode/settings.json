@@ -425,7 +425,7 @@
    */
   // "editor.letterSpacing": 0,
   /**
-   * Controls fading out of unused variables.
+   * Управляет исчезновением неиспользуемых переменных.
    */
   // "editor.showUnused": true
 }
